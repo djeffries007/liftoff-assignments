@@ -8,11 +8,11 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-
+https://github.com/djeffries007/liftoff-assignments/blob/master/P3-Project_Planning/IMG_2694.jpg
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/RuvsDPwK/anime-watch-face
 
 ### Project Repo Link
 
