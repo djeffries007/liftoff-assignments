@@ -7,12 +7,24 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My project enables a fitbit consumer to change their watch face interface to a select anime theme that will work on a FitBit Ionic. The FitBit would still have its core functionallity. The theme would include the display of the time, date, background and anime emojis. This plugin will engage the consumer while giving them the ability to reach their fitness goals with an everchanging watch face background based on their personal achievements. When you reach certain milestones you will have a friendly anime emoji appear to either congratulate you on your achievement or encourage you to keep going.
+
+These enhanceded features will keep the user engaged and lead them to completing their daily fitness goal in a fun an interactive way while having a theme downloaded to thier FitBit that fits the users personaility. 
+
+The idea came from me purchasing a Fibit and not having a downloadeable theme that fits my personality.
 ### Features
-Include Features here
+Select Anime theme interface: User will have the ability to download a anime theme that will change there interface to reflect the select anime.
+
+Changing background: User background will change when workout milestones are reached.
+
+Anime emoji (encouragement message): User will receive a message of encouragement from an anime emoji every hour if personal achivements are not met.
+
+Anime emoji (acomplished message): User will receive a message of accomplishment when the personal achivements are met.
 ### Technologies
-Include Technologies here
+Javascript
+SVG
+CSS
 ### What I'll Have to Learn
-Include what you will need to learn here
+In the course of building my project I will have to learn Javascript, CSS and SVG to create the look and build the functionality to work with the Fitbit.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/RuvsDPwK/anime-watch-face
