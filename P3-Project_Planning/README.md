@@ -16,4 +16,4 @@ https://trello.com/b/RuvsDPwK/anime-watch-face
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/djeffries007/Fitbit-Watch-Face.git
